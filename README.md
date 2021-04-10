@@ -9,7 +9,7 @@
 
 
 ## 메인 화면
-
+![https://user-images.githubusercontent.com/74857433/113293274-868c7f80-9330-11eb-85aa-491acf902986.gif](https://user-images.githubusercontent.com/74857433/113293274-868c7f80-9330-11eb-85aa-491acf902986.gif)
 
 
 ## 개발 환경 설정
