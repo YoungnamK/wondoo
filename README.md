@@ -14,9 +14,9 @@
 
 # 개발환경
 ```java
-1. 개발IDE - Eclipse IDE for Java EE Developer , SpringToolSuite4, vscode<br/>
-2. Tomcat - Apache Tomcat 9.0 <br/>
-3. Oracle - Oracle SQL Developer<br/>
+1. 개발IDE - Eclipse IDE for Java EE Developer , SpringToolSuite4, vscode 
+2. Tomcat - Apache Tomcat 9.0 
+3. Oracle - Oracle SQL Developer
 ```
 
 
