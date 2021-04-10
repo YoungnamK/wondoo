@@ -12,12 +12,22 @@
 ![https://user-images.githubusercontent.com/74857433/113293274-868c7f80-9330-11eb-85aa-491acf902986.gif](https://user-images.githubusercontent.com/74857433/113293274-868c7f80-9330-11eb-85aa-491acf902986.gif)
 
 
-## 개발 환경 설정
+# 개발환경
+```java
+1. 개발IDE - Eclipse IDE for Java EE Developer , SpringToolSuite4, vscode<br/>
+2. Tomcat - Apache Tomcat 9.0 <br/>
+3. Oracle - Oracle SQL Developer<br/>
+```
 
 
 
 ## 정보
 
 
-## 작업 인원
+## Author
+[Youngnam](https://github.com/YoungnamK)
+- E-mail : yn4090@gmail.com
 
+[jieun](https://github.com/seeyoufriyay)
+
+[hyunji](https://github.com/Hyunji-P)
